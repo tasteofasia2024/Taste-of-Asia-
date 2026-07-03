@@ -620,6 +620,48 @@ export default function Home() {
           ],
         },
         {
+          title: "Räkor / Prawns dishes",
+          description: "Alla rätter innehåller grönsaker & vitlök",
+          items: [ 
+            {
+              name: "17. Räkor med gul curry kokos & ananas/ Prawns with yellow curry, coconut & sweet pineapple",
+              price: "159:-",
+            },
+            {
+              name: "18. Räkor med vitlökschili & stark basilika 🌶️🌶️🌶️ / Spicy garlic prawns with vegetables & thai basil",
+              price: "159:-",
+            },
+            { 
+              name: "19. Räkor med chilipasta kokos & champinjoner 🌶️🌶️ / Prawns with chili paste, coconut & mushrooms",
+              price: "159:-",
+            },
+            { 
+              name: "57. Räkor med röd curry kokos & söt basilika 🌶️🌶️ / Prawns with red curry, coconut & sweet basil",
+              price: "159:-",
+            },
+            { 
+              name: "58. Räkor med sweetchilisås & cashewnötter / Prawns with sweet chili sauce & cashew nuts",
+              price: "159:-",
+            },
+            { 
+              name: "65. Räkor med panang curry kokos & limeblad 🌶️🌶️🌶️ / Prawns with panang curry, coconut & lime leaves",
+              price: "159:-",
+            },
+            {
+              name: "76. Räkor med grön curry kokos & ananas 🌶️🌶️🌶️ / Prawns with green curry, coconut & lime leaves",
+              price: "159:-",
+            },
+            { name: "78. Räkor med grönsaker / Prawns with vegetables", price: "159:-" },
+            {
+              name: "79. Räkor med vitlöksvartpepparssås 🌶️🌶️ / Prawns with garlic & black pepper sauce",
+              price: "165:-",
+            },
+              name: "80. Räkor med ingefära & grönsaker / Prawns with ginger & vegetables",
+              price: "159:-",
+            },
+          ],
+        },
+        { 
           title: "Ris - Nudlar - Friterat / Rice - Noodles - Fried plates",
           items: [
             {
