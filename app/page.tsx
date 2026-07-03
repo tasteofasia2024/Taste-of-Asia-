@@ -385,7 +385,7 @@ export default function Home() {
             { name: "22. Grönsaker med panang curry, kokos & limeblad 🌶️🌶️🌶️", price: "118:-" },
             { name: "22R. Grönsaker med röd curry, kokos, ananas & söt basilika 🌶️🌶️", price: "118:-" },
             { name: "22G. Grönsaker med grön curry, kokos, ananas & limeblad 🌶️🌶️🌶️", price: "118:-" },
-            { name: "22M. Grönsaker med massaman curry & kokos", price: "118:-" },
+            { name: "22M. Grönsaker med massaman curry & kokos,jordnötter", price: "118:-" },
             { name: "23V. Stekt ris med ägg & grönsaker", price: "118:-" },
             { name: "24V. Stekta äggnudlar med grönsaker", price: "118:-" },
             { name: "25V. Risnudlar med ägg, grönsaker & jordnötter", price: "118:-" },
