@@ -368,7 +368,7 @@ export default function Home() {
             { name: "18. Tigerräkor med vitlök/chili & stark basilika 🌶️🌶️🌶️", price: "139:-" },
             { name: "19. Tigerräkor chilipasta, vitlök, kokos & champinjoner 🌶️🌶️", price: "139:-" },
             { name: "57. Tigerräkor med röd curry, kokos & söt basilika 🌶️🌶️", price: "139:-" },
-            { name: "58. Tigerräkor med sweetchilisås & vitlök, cashewnötter", price: "139:-" },
+            { name: "58. Tigerräkor med sweetchilisås, vitlök & cashewnötter", price: "139:-" },
             { name: "65. Tigerräkor med panang curry, kokos, limeblad 🌶️🌶️🌶️", price: "139:-" },
             { name: "76. Tigerräkor med grön curry, kokos & ananas 🌶️🌶️🌶️", price: "139:-" },
             { name: "78. Tigerräkor med vitlök & grönsaker", price: "139:-" },
