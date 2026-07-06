@@ -268,19 +268,18 @@ export default function Home() {
       sections: [
         {
           title: "Kombinationsmenyer",
-          description: "Meny A & Meny B innehåller vitlök",
           items: [
             {
               name: "Meny A - Combination plates A",
               price: "149:-",
               description:
-                "Kyckling grillspett med jordnötssås (2st) • Panerade räkor med sötsursås (2st) • Oxfilé med vitlökschili & stark basilika 🌶️🌶️🌶️",
+                "Kyckling grillspett med jordnötssås (2st) • Panerade räkor med sötsursås (2st) • Oxfilé med vitlökschili & stark basilika",
             },
             {
               name: "Meny B - Combination plates B",
               price: "149:-",
               description:
-                "Vårrulle (blandfärs) (1st) • Kyckling grillspett med jordnötssås (2st) • Friterade räkor med sötsursås (2st) • Kycklingfilé med vitlökschili & stark basilika 🌶️🌶️🌶️",
+                "Vårrulle (blandfärs) (1st) • Kyckling grillspett med jordnötssås (2st) • Friterade räkor med sötsursås (2st) • Kycklingfilé med vitlökschili & stark basilika",
             },
             {
               name: "Meny C - Combination plates C",
@@ -369,7 +368,7 @@ export default function Home() {
             { name: "18. Tigerräkor med vitlök/chili & stark basilika 🌶️🌶️🌶️", price: "139:-" },
             { name: "19. Tigerräkor chilipasta, vitlök, kokos & champinjoner 🌶️🌶️", price: "139:-" },
             { name: "57. Tigerräkor med röd curry, kokos & söt basilika 🌶️🌶️", price: "139:-" },
-            { name: "58. Tigerräkor med sweetchilisås & vitlök,cashewnötter", price: "139:-" },
+            { name: "58. Tigerräkor med sweetchilisås & vitlök", price: "139:-" },
             { name: "65. Tigerräkor med panang curry, kokos, limeblad 🌶️🌶️🌶️", price: "139:-" },
             { name: "76. Tigerräkor med grön curry, kokos & ananas 🌶️🌶️🌶️", price: "139:-" },
             { name: "78. Tigerräkor med vitlök & grönsaker", price: "139:-" },
@@ -385,7 +384,7 @@ export default function Home() {
             { name: "22. Grönsaker med panang curry, kokos & limeblad 🌶️🌶️🌶️", price: "118:-" },
             { name: "22R. Grönsaker med röd curry, kokos, ananas & söt basilika 🌶️🌶️", price: "118:-" },
             { name: "22G. Grönsaker med grön curry, kokos, ananas & limeblad 🌶️🌶️🌶️", price: "118:-" },
-            { name: "22M. Grönsaker med massaman curry & kokos,jordnötter", price: "118:-" },
+            { name: "22M. Grönsaker med massaman curry & kokos", price: "118:-" },
             { name: "23V. Stekt ris med ägg & grönsaker", price: "118:-" },
             { name: "24V. Stekta äggnudlar med grönsaker", price: "118:-" },
             { name: "25V. Risnudlar med ägg, grönsaker & jordnötter", price: "118:-" },
